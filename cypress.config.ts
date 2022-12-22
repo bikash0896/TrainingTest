@@ -1,10 +1,10 @@
 import { defineConfig } from "cypress";
 
 export default defineConfig({
-  projectId: "ss7ape",
+  projectId: "8svzz9",
   e2e: {
     env: {
-      RECORD_KEY: "690a20b7-73e9-456d-b052-72c5663d1f7a",
+      RECORD_KEY: "4a33a589-67ae-4e75-8e06-a19c2ab21037",
     },
     chromeWebSecurity: false,
     setupNodeEvents(on, config) {
